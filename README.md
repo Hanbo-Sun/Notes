@@ -1,5 +1,5 @@
 ## Notes
-Welcome to my Notes! 
+Welcome to Hanbo's Notes! 
 Please refer to Wiki for many useful notes, source, commands and snippets of code that might be useful to you.
 
 
